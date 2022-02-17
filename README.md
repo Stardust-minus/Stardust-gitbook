@@ -20,20 +20,16 @@ description: 最后修订于2022/2/17 08:20
 
 ##
 
-{% hint style="info" %}
-**Good to know:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at [Loom](https://loom.com) as a perfect example of a succinct feature overview.
-{% endhint %}
+### 以下是星尘的核心功能列表:
 
-### Guides: Jump right in
+您可以快速浏览，详尽的子功能介绍可以点击左边的目录查看。
 
-Follow our handy guides to get started on the basics as quickly as possible:
-
-{% content-ref url="guides/creating-your-first-project.md" %}
-[creating-your-first-project.md](guides/creating-your-first-project.md)
+{% content-ref url="guides/dice-zhi-tou-gong-neng.md" %}
+[dice-zhi-tou-gong-neng.md](guides/dice-zhi-tou-gong-neng.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/creating-your-first-task.md" %}
-[creating-your-first-task.md](guides/creating-your-first-task.md)
+{% content-ref url="guides/zi-ding-yi-de-hui-fu-chu-fa.md" %}
+[zi-ding-yi-de-hui-fu-chu-fa.md](guides/zi-ding-yi-de-hui-fu-chu-fa.md)
 {% endcontent-ref %}
 
 {% content-ref url="guides/advanced-permissions.md" %}

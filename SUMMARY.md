@@ -4,8 +4,8 @@
 
 ## Guides
 
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
+* [Dice掷骰功能](guides/dice-zhi-tou-gong-neng.md)
+* [自定义的回复触发](guides/zi-ding-yi-de-hui-fu-chu-fa.md)
 * [Advanced permissions](guides/advanced-permissions.md)
 
 ## Fundamentals
