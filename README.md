@@ -1,5 +1,5 @@
 ---
-description: 最后修订于2022/2/17 08:2
+description: 最后修订于2022/2/17 08:20
 ---
 
 # 骰娘——星尘的详尽使用说明
@@ -10,23 +10,15 @@ description: 最后修订于2022/2/17 08:2
 为了给星尘目前较为零散的各项功能总写一份说明。
 {% endhint %}
 
-Here are a couple of examples of succinct overviews from products with really great docs:
+首先是关于这篇文档的一些信息：
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
+> 本文档介绍星尘目前搭载的所有功能。但是很多功能需要我的授权方可使用。
+
+> 如果需要授权的话，请使用.send功能，并保证合理使用该项功能。
 >
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+> 如若因不合理使用而导致星尘被风控等后果，那么您或者您申请该功能的群聊可能会被列入黑名单。
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
-
-## Getting Started
-
-**Got 2 minutes?** Check out a video overview of our product:
-
-{% embed url="https://www.loom.com/share/3bfa83acc9fd41b7b98b803ba9197d90" %}
+##
 
 {% hint style="info" %}
 **Good to know:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at [Loom](https://loom.com) as a perfect example of a succinct feature overview.
@@ -49,7 +41,7 @@ Follow our handy guides to get started on the basics as quickly as possible:
 {% endcontent-ref %}
 
 {% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+**Good to know:** your product docs aren't a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
 {% endhint %}
 
 ### Fundamentals: Dive a little deeper
