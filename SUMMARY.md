@@ -1,6 +1,6 @@
 # Table of contents
 
-* [What is MyProduct?](README.md)
+* [骰娘——星尘的详尽使用说明](README.md)
 
 ## Guides
 
