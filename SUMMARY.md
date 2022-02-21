@@ -16,6 +16,7 @@
 * [B站动态推送](zi-gong-neng-chai-fen/b-zhan-dong-tai-tui-song.md)
 * [漂流瓶](zi-gong-neng-chai-fen/piao-liu-ping.md)
 * [点歌](zi-gong-neng-chai-fen/dian-ge.md)
+* [生草制图](zi-gong-neng-chai-fen/sheng-cao-zhi-tu.md)
 
 ## Extra
 

@@ -18,11 +18,11 @@ description: 海里全是尸体，一滴水都没有。
 
 示例:
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 在群内发送 `捡漂流瓶` 即可捡起一个漂流瓶。&#x20;
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 #### 跳海
 

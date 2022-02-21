@@ -18,7 +18,7 @@ description: 一键生草
 
 示例:
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1).png>)
 
 ### 接续上文进行续写:
 
@@ -26,7 +26,7 @@ description: 一键生草
 
 `示例:`
 
-``![](<../.gitbook/assets/image (1).png>)``
+``![](<../.gitbook/assets/image (1) (1).png>)``
 
 
 
