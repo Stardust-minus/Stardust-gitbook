@@ -15,6 +15,7 @@
 * [彩云小梦续写](fundamentals/cai-yun-xiao-meng-xu-xie.md)
 * [B站动态推送](fundamentals/tasks.md)
 * [漂流瓶](fundamentals/piao-liu-ping.md)
+* [点歌](fundamentals/dian-ge.md)
 
 ## Use Cases
 

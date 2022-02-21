@@ -4,9 +4,13 @@ description: 很好看的一套塔罗牌
 
 # 增强的塔罗牌
 
-[_项目地址_](https://github.com/LaoLittle/SimpleTarot)__
+{% embed url="https://github.com/LaoLittle/SimpleTarot" %}
+_项目地址_
+{% endembed %}
 
-_作者:_[_Laolittle_](https://github.com/LaoLittle)__
+{% embed url="https://github.com/LaoLittle" %}
+作者
+{% endembed %}
 
 可使用 `今日塔罗` 指令抽取一张塔罗牌，同时您会再获得一些塔罗牌。
 

@@ -68,10 +68,6 @@ description: 最后修订于2022/2/17 08:20
 [tasks.md](fundamentals/tasks.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/piao-liu-ping.md" %}
-[piao-liu-ping.md](fundamentals/piao-liu-ping.md)
-{% endcontent-ref %}
-
 {% hint style="info" %}
 **Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them. Combine guides with this approach to 'fundamentals' and you're well on your way to great documentation!
 {% endhint %}
