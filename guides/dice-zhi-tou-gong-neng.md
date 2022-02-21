@@ -1,5 +1,5 @@
 ---
-description: 基于溯洄&Shiki Dice核心
+description: 基于溯洄&Shiki Dice核心，于Mirai核心分离，原则上尽量保持长期稳定运行。
 ---
 
 # Dice掷骰功能

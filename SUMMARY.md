@@ -5,13 +5,13 @@
 ## Guides
 
 * [Dice掷骰功能](guides/dice-zhi-tou-gong-neng.md)
-* [对接ZeroBot-Plugin实现之功能](guides/dui-jie-zerobotplugin-shi-xian-zhi-gong-neng.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+* [对接ZeroBot-Plugin实现之功能](guides/dui-jie-zerobotplugins-shi-xian-zhi-gong-neng.md)
+* [基于Mirai实现的原生功能](guides/ji-yu-mirai-shi-xian-de-yuan-sheng-gong-neng.md)
 
 ## Fundamentals
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
+* [词云生成](fundamentals/ci-yun-sheng-cheng.md)
+* [增强的塔罗牌](fundamentals/zeng-qiang-de-ta-luo-pai.md)
 * [Task Lists](fundamentals/task-lists.md)
 * [Tasks](fundamentals/tasks.md)
 
