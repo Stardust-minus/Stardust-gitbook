@@ -44,4 +44,4 @@ description: 基于Skiko的奇怪的图片生成器。
 * emoji 合成
 * 发送任意两个emoji（不支持的emoji不会合成）
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (3).png>)

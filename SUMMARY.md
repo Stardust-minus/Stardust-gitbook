@@ -17,6 +17,8 @@
 * [漂流瓶](zi-gong-neng-chai-fen/piao-liu-ping.md)
 * [点歌](zi-gong-neng-chai-fen/dian-ge.md)
 * [生草制图](zi-gong-neng-chai-fen/sheng-cao-zhi-tu.md)
+* [Pixiv图片](zi-gong-neng-chai-fen/pixiv-tu-pian.md)
+* [反井字棋](zi-gong-neng-chai-fen/fan-jing-zi-qi.md)
 
 ## Extra
 
