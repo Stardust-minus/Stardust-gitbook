@@ -30,16 +30,16 @@ description: 最后修订于2022/2/17 08:20
 
 您可以快速浏览，详尽的子功能介绍可以点击左边的目录查看。
 
-{% content-ref url="guides/dice-zhi-tou-gong-neng.md" %}
-[dice-zhi-tou-gong-neng.md](guides/dice-zhi-tou-gong-neng.md)
+{% content-ref url="san-da-he-xin/dice-zhi-tou-gong-neng.md" %}
+[dice-zhi-tou-gong-neng.md](san-da-he-xin/dice-zhi-tou-gong-neng.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/dui-jie-zerobotplugins-shi-xian-zhi-gong-neng.md" %}
-[dui-jie-zerobotplugins-shi-xian-zhi-gong-neng.md](guides/dui-jie-zerobotplugins-shi-xian-zhi-gong-neng.md)
+{% content-ref url="san-da-he-xin/dui-jie-zerobotplugin-shi-xian-zhi-gong-neng.md" %}
+[dui-jie-zerobotplugin-shi-xian-zhi-gong-neng.md](san-da-he-xin/dui-jie-zerobotplugin-shi-xian-zhi-gong-neng.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/ji-yu-mirai-shi-xian-de-yuan-sheng-gong-neng.md" %}
-[ji-yu-mirai-shi-xian-de-yuan-sheng-gong-neng.md](guides/ji-yu-mirai-shi-xian-de-yuan-sheng-gong-neng.md)
+{% content-ref url="san-da-he-xin/ji-yu-mirai-shi-xian-de-yuan-sheng-gong-neng.md" %}
+[ji-yu-mirai-shi-xian-de-yuan-sheng-gong-neng.md](san-da-he-xin/ji-yu-mirai-shi-xian-de-yuan-sheng-gong-neng.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
@@ -52,24 +52,24 @@ description: 最后修订于2022/2/17 08:20
 
 本文档的核心部分。
 
-{% content-ref url="fundamentals/ci-yun-sheng-cheng.md" %}
-[ci-yun-sheng-cheng.md](fundamentals/ci-yun-sheng-cheng.md)
+{% content-ref url="zi-gong-neng-chai-fen/ci-yun-sheng-cheng.md" %}
+[ci-yun-sheng-cheng.md](zi-gong-neng-chai-fen/ci-yun-sheng-cheng.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/zeng-qiang-de-ta-luo-pai.md" %}
-[zeng-qiang-de-ta-luo-pai.md](fundamentals/zeng-qiang-de-ta-luo-pai.md)
+{% content-ref url="zi-gong-neng-chai-fen/zeng-qiang-de-ta-luo-pai.md" %}
+[zeng-qiang-de-ta-luo-pai.md](zi-gong-neng-chai-fen/zeng-qiang-de-ta-luo-pai.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/cai-yun-xiao-meng-xu-xie.md" %}
-[cai-yun-xiao-meng-xu-xie.md](fundamentals/cai-yun-xiao-meng-xu-xie.md)
+{% content-ref url="zi-gong-neng-chai-fen/cai-yun-xiao-meng-xu-xie.md" %}
+[cai-yun-xiao-meng-xu-xie.md](zi-gong-neng-chai-fen/cai-yun-xiao-meng-xu-xie.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/tasks.md" %}
-[tasks.md](fundamentals/tasks.md)
+{% content-ref url="zi-gong-neng-chai-fen/b-zhan-dong-tai-tui-song.md" %}
+[b-zhan-dong-tai-tui-song.md](zi-gong-neng-chai-fen/b-zhan-dong-tai-tui-song.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/piao-liu-ping.md" %}
-[piao-liu-ping.md](fundamentals/piao-liu-ping.md)
+{% content-ref url="zi-gong-neng-chai-fen/piao-liu-ping.md" %}
+[piao-liu-ping.md](zi-gong-neng-chai-fen/piao-liu-ping.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}

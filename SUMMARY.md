@@ -2,30 +2,22 @@
 
 * [骰娘——星尘的详尽使用说明](README.md)
 
-## Guides
+## 三大核心
 
-* [Dice掷骰功能](guides/dice-zhi-tou-gong-neng.md)
-* [对接ZeroBot-Plugin实现之功能](guides/dui-jie-zerobotplugins-shi-xian-zhi-gong-neng.md)
-* [基于Mirai实现的原生功能](guides/ji-yu-mirai-shi-xian-de-yuan-sheng-gong-neng.md)
+* [Dice掷骰功能](san-da-he-xin/dice-zhi-tou-gong-neng.md)
+* [对接ZeroBot-Plugin实现之功能](san-da-he-xin/dui-jie-zerobotplugin-shi-xian-zhi-gong-neng.md)
+* [基于Mirai实现的原生功能](san-da-he-xin/ji-yu-mirai-shi-xian-de-yuan-sheng-gong-neng.md)
 
-## Fundamentals
+## 子功能拆分
 
-* [词云生成](fundamentals/ci-yun-sheng-cheng.md)
-* [增强的塔罗牌](fundamentals/zeng-qiang-de-ta-luo-pai.md)
-* [彩云小梦续写](fundamentals/cai-yun-xiao-meng-xu-xie.md)
-* [B站动态推送](fundamentals/tasks.md)
-* [漂流瓶](fundamentals/piao-liu-ping.md)
-* [点歌](fundamentals/dian-ge.md)
+* [词云生成](zi-gong-neng-chai-fen/ci-yun-sheng-cheng.md)
+* [增强的塔罗牌](zi-gong-neng-chai-fen/zeng-qiang-de-ta-luo-pai.md)
+* [彩云小梦续写](zi-gong-neng-chai-fen/cai-yun-xiao-meng-xu-xie.md)
+* [B站动态推送](zi-gong-neng-chai-fen/b-zhan-dong-tai-tui-song.md)
+* [漂流瓶](zi-gong-neng-chai-fen/piao-liu-ping.md)
+* [点歌](zi-gong-neng-chai-fen/dian-ge.md)
 
-## Use Cases
+## Extra
 
-* [For Designers](use-cases/for-designers/README.md)
-  * [Figma Integration](use-cases/for-designers/figma-integration.md)
-* [For Engineers](use-cases/for-engineers/README.md)
-  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
-* [For Support](use-cases/for-support/README.md)
-  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
-
-## Extras
-
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+* [联系星尘的维护者](extra/lian-xi-xing-chen-de-wei-hu-zhe.md)
+* [更新日志](extra/geng-xin-ri-zhi.md)
