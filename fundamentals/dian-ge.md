@@ -4,6 +4,10 @@ description: 支持QQ音乐、酷狗、千千、网易、网易电台、B站音�
 
 # 点歌
 
+{% embed url="https://github.com/khjxiaogu" %}
+作者
+{% endembed %}
+
 {% embed url="https://github.com/khjxiaogu/MiraiSongPlugin" %}
 项目地址
 {% endembed %}

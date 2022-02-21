@@ -4,13 +4,9 @@ description: 一键生草
 
 # 彩云小梦续写
 
-{% embed url="https://github.com/LaoLittle/CaiyunDream-Mirai" %}
-项目地址
-{% endembed %}
+__[_项目地址_](https://github.com/LaoLittle/CaiyunDream-Mirai)__
 
-{% embed url="https://github.com/LaoLittle" %}
-作者
-{% endembed %}
+_作者:_[_Laolittle_](https://github.com/LaoLittle)__
 
 ### 开始一个续写:
 
