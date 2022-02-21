@@ -4,9 +4,9 @@ description: 可以可视化统计群内聊天的词频。
 
 # 词云生成
 
-[项目地址](https://github.com/LaoLittle/WordCloud)
+[_项目地址_](https://github.com/LaoLittle/WordCloud)__
 
-作者:[Laolittle](https://github.com/LaoLittle)
+作者:[_Laolittle_](https://github.com/LaoLittle)__
 
 会在每日0点开始记录一切群消息，每日18点生成今日词云。
 
