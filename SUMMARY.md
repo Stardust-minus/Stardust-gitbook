@@ -5,7 +5,7 @@
 ## Guides
 
 * [Dice掷骰功能](guides/dice-zhi-tou-gong-neng.md)
-* [自定义的回复触发](guides/zi-ding-yi-de-hui-fu-chu-fa.md)
+* [对接ZeroBot-Plugins实现之功能](guides/dui-jie-zerobotplugins-shi-xian-zhi-gong-neng.md)
 * [Advanced permissions](guides/advanced-permissions.md)
 
 ## Fundamentals
