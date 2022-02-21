@@ -28,8 +28,8 @@ description: 最后修订于2022/2/17 08:20
 [dice-zhi-tou-gong-neng.md](guides/dice-zhi-tou-gong-neng.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/dui-jie-zerobotplugins-shi-xian-zhi-gong-neng.md" %}
-[dui-jie-zerobotplugins-shi-xian-zhi-gong-neng.md](guides/dui-jie-zerobotplugins-shi-xian-zhi-gong-neng.md)
+{% content-ref url="guides/dui-jie-zerobotplugin-shi-xian-zhi-gong-neng.md" %}
+[dui-jie-zerobotplugin-shi-xian-zhi-gong-neng.md](guides/dui-jie-zerobotplugin-shi-xian-zhi-gong-neng.md)
 {% endcontent-ref %}
 
 {% content-ref url="guides/advanced-permissions.md" %}

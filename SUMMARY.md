@@ -5,7 +5,7 @@
 ## Guides
 
 * [Dice掷骰功能](guides/dice-zhi-tou-gong-neng.md)
-* [对接ZeroBot-Plugins实现之功能](guides/dui-jie-zerobotplugins-shi-xian-zhi-gong-neng.md)
+* [对接ZeroBot-Plugin实现之功能](guides/dui-jie-zerobotplugin-shi-xian-zhi-gong-neng.md)
 * [Advanced permissions](guides/advanced-permissions.md)
 
 ## Fundamentals
