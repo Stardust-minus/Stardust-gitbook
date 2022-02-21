@@ -19,6 +19,8 @@
 * [生草制图](zi-gong-neng-chai-fen/sheng-cao-zhi-tu.md)
 * [Pixiv图片](zi-gong-neng-chai-fen/pixiv-tu-pian.md)
 * [反井字棋](zi-gong-neng-chai-fen/fan-jing-zi-qi.md)
+* [NASA图片获取](zi-gong-neng-chai-fen/nasa-tu-pian-huo-qu.md)
+* [战舰世界水表查询](zi-gong-neng-chai-fen/zhan-jian-shi-jie-shui-biao-cha-xun.md)
 
 ## Extra
 
