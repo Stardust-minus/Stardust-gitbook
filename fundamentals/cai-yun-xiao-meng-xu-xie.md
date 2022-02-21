@@ -4,9 +4,13 @@ description: 一键生草
 
 # 彩云小梦续写
 
-__[_项目地址_](https://github.com/LaoLittle/CaiyunDream-Mirai)__
+{% embed url="https://github.com/LaoLittle/CaiyunDream-Mirai" %}
+项目地址
+{% endembed %}
 
-_作者:_[_Laolittle_](https://github.com/LaoLittle)__
+{% embed url="https://github.com/LaoLittle" %}
+作者
+{% endembed %}
 
 ### 开始一个续写:
 
@@ -14,7 +18,7 @@ _作者:_[_Laolittle_](https://github.com/LaoLittle)__
 
 示例:
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 ### 接续上文进行续写:
 
@@ -22,7 +26,7 @@ _作者:_[_Laolittle_](https://github.com/LaoLittle)__
 
 `示例:`
 
-``![](../.gitbook/assets/image.png)``
+``![](<../.gitbook/assets/image (1).png>)``
 
 
 
