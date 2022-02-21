@@ -13,7 +13,8 @@
 * [词云生成](fundamentals/ci-yun-sheng-cheng.md)
 * [增强的塔罗牌](fundamentals/zeng-qiang-de-ta-luo-pai.md)
 * [彩云小梦续写](fundamentals/cai-yun-xiao-meng-xu-xie.md)
-* [Tasks](fundamentals/tasks.md)
+* [B站动态推送](fundamentals/b-zhan-dong-tai-tui-song.md)
+* [漂流瓶](fundamentals/piao-liu-ping.md)
 
 ## Use Cases
 

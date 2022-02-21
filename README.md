@@ -64,9 +64,11 @@ description: 最后修订于2022/2/17 08:20
 [cai-yun-xiao-meng-xu-xie.md](fundamentals/cai-yun-xiao-meng-xu-xie.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/tasks.md" %}
-[tasks.md](fundamentals/tasks.md)
+{% content-ref url="fundamentals/b-zhan-dong-tai-tui-song.md" %}
+[b-zhan-dong-tai-tui-song.md](fundamentals/b-zhan-dong-tai-tui-song.md)
 {% endcontent-ref %}
+
+\{% content-ref url="fundamentals/cai-yun-xiao-meng-xu-xie.md" %\} [cai-yun-xiao-meng-xu-xie.md](fundamentals/cai-yun-xiao-meng-xu-xie.md) \{% endcontent-ref %\}
 
 {% hint style="info" %}
 **Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them. Combine guides with this approach to 'fundamentals' and you're well on your way to great documentation!
