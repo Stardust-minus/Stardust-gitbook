@@ -1,4 +1,16 @@
+---
+description: 好玩的小游戏（大概）
+---
+
 # 反井字棋
+
+{% embed url="https://github.com/kono-dada/Reversed_Tictactoe" %}
+项目地址
+{% endembed %}
+
+{% embed url="https://github.com/kono-dada" %}
+作者
+{% endembed %}
 
 游戏规则：玩家将在4\*4的棋盘中依次落子，谁先横、竖、或斜方向连成三子谁就落败。
 
