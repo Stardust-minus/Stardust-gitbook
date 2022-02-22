@@ -18,13 +18,13 @@ description: 发送 /服务列表 来查看星尘所启用的功能。
 
 以下是目前启用的服务列表（行首使用//注释的为未启用）
 
-![](../.gitbook/assets/5\_5}RFSAPBV\(IS\[\`DOF0O1G.png)
+![](<../.gitbook/assets/image (5).png>)
 
-![](../.gitbook/assets/@0VDHIKZ{QDW$M\(1H\~L\[\)KA.png)
+![](<../.gitbook/assets/image (8).png>)
 
 
 
-#### 由于Api服务器故障，coser，图片放大功能不可用。
+#### 由于Api服务器故障，部分功能可能无法使用。
 
 ## 从Github复制来的各指令使用方法:
 
