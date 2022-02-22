@@ -24,6 +24,6 @@ description: 好玩的小游戏（大概）
 
 棋局开始后，发送 `/play <纵坐标> <横坐标>` 即可落子 。
 
-![](<../.gitbook/assets/image (2).png>)
+![](../.gitbook/assets/NU9FD%B\[U{@\(Z1F\(N6FC%9Q.png)
 
 若想放弃棋局，发送 `/t quit` 即可退出。退出即判定另一方获胜。
