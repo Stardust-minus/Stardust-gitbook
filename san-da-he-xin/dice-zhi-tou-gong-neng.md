@@ -6,6 +6,8 @@ description: 基于溯洄&Shiki Dice核心，于Mirai核心分离，原则上尽
 
 {% hint style="info" %}
 星尘的Dice核心经过我的修改。如果在使用过程中出现任何问题请直接.send。
+
+目前版本对应上游605版本。&#x20;
 {% endhint %}
 
 ## 如何使用？
