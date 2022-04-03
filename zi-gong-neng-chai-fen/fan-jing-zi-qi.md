@@ -20,7 +20,7 @@ description: 好玩的小游戏（大概）
 
 被挑战者只需发发送”ok“即可接受挑战。&#x20;
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (1).png>)
 
 棋局开始后，发送 `/play <纵坐标> <横坐标>` 即可落子 。
 

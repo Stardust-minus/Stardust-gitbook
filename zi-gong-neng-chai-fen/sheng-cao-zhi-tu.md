@@ -22,7 +22,7 @@ description: 基于Skiko的奇怪的图片生成器。
 * \#ph + 文字\
   会自动截取一半，效果如下。
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 * \#ph + 文字 + 文字
 

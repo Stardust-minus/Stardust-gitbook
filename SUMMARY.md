@@ -10,6 +10,7 @@
 
 ## 子功能拆分
 
+* [原神抽卡模拟](zi-gong-neng-chai-fen/yuan-shen-chou-ka-mo-ni.md)
 * [词云生成](zi-gong-neng-chai-fen/ci-yun-sheng-cheng.md)
 * [增强的塔罗牌](zi-gong-neng-chai-fen/zeng-qiang-de-ta-luo-pai.md)
 * [彩云小梦续写](zi-gong-neng-chai-fen/cai-yun-xiao-meng-xu-xie.md)
