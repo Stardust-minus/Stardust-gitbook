@@ -24,7 +24,7 @@ description: 最后修订于2022/2/17 08:20
 
 如果你也想自己部署机器人，请访问 [Mirai论坛](https://mirai.mamoe.net) 以及阅读 [Mirai文档](https://docs.mirai.mamoe.net)
 
-本人**不提供**任何技术支持
+本人**不提供**任何技术支持。
 
 ### 以下是星尘的核心功能列表:
 
