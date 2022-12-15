@@ -22,7 +22,7 @@ description: 最后修订于2022/2/17 08:20
 >
 > 如若因不合理使用而导致星尘被风控等后果，那么您或者您申请该功能的群聊可能会被列入黑名单。
 
-如果你也想自己部署机器人，请访问 [Mirai论坛](https://mirai.mamoe.net) 以及阅读 [Mirai文档](https://docs.mirai.mamoe.net)
+如果你也想自己部署机器人，请访问 [Mirai论坛](https://mirai.mamoe.net/) 以及阅读 [Mirai文档](https://docs.mirai.mamoe.net/)
 
 本人**不提供**任何技术支持。
 
@@ -30,16 +30,16 @@ description: 最后修订于2022/2/17 08:20
 
 您可以快速浏览，详尽的子功能介绍可以点击左边的目录查看。
 
-{% content-ref url="san-da-he-xin/dice-zhi-tou-gong-neng.md" %}
-[dice-zhi-tou-gong-neng.md](san-da-he-xin/dice-zhi-tou-gong-neng.md)
+{% content-ref url="si-da-he-xin/dice-zhi-tou-gong-neng.md" %}
+[dice-zhi-tou-gong-neng.md](si-da-he-xin/dice-zhi-tou-gong-neng.md)
 {% endcontent-ref %}
 
-{% content-ref url="san-da-he-xin/dui-jie-zerobotplugin-shi-xian-zhi-gong-neng.md" %}
-[dui-jie-zerobotplugin-shi-xian-zhi-gong-neng.md](san-da-he-xin/dui-jie-zerobotplugin-shi-xian-zhi-gong-neng.md)
+{% content-ref url="si-da-he-xin/dui-jie-zerobotplugin-shi-xian-zhi-gong-neng.md" %}
+[dui-jie-zerobotplugin-shi-xian-zhi-gong-neng.md](si-da-he-xin/dui-jie-zerobotplugin-shi-xian-zhi-gong-neng.md)
 {% endcontent-ref %}
 
-{% content-ref url="san-da-he-xin/ji-yu-mirai-shi-xian-de-yuan-sheng-gong-neng.md" %}
-[ji-yu-mirai-shi-xian-de-yuan-sheng-gong-neng.md](san-da-he-xin/ji-yu-mirai-shi-xian-de-yuan-sheng-gong-neng.md)
+{% content-ref url="si-da-he-xin/ji-yu-mirai-shi-xian-de-yuan-sheng-gong-neng.md" %}
+[ji-yu-mirai-shi-xian-de-yuan-sheng-gong-neng.md](si-da-he-xin/ji-yu-mirai-shi-xian-de-yuan-sheng-gong-neng.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
@@ -92,8 +92,8 @@ description: 最后修订于2022/2/17 08:20
 [fan-jing-zi-qi.md](zi-gong-neng-chai-fen/fan-jing-zi-qi.md)
 {% endcontent-ref %}
 
-{% content-ref url="zi-gong-neng-chai-fen/zhan-jian-shi-jie-shui-biao-cha-xun.md" %}
-[zhan-jian-shi-jie-shui-biao-cha-xun.md](zi-gong-neng-chai-fen/zhan-jian-shi-jie-shui-biao-cha-xun.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% hint style="info" %}

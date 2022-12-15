@@ -2,11 +2,12 @@
 
 * [骰娘——星尘的详尽使用说明](README.md)
 
-## 三大核心
+## 四大核心
 
-* [Dice掷骰功能](san-da-he-xin/dice-zhi-tou-gong-neng.md)
-* [对接ZeroBot-Plugin实现之功能](san-da-he-xin/dui-jie-zerobotplugin-shi-xian-zhi-gong-neng.md)
-* [基于Mirai实现的原生功能](san-da-he-xin/ji-yu-mirai-shi-xian-de-yuan-sheng-gong-neng.md)
+* [基于Yunzai-Bot实现的功能](si-da-he-xin/ji-yu-yunzaibot-shi-xian-de-gong-neng.md)
+* [Dice掷骰功能](si-da-he-xin/dice-zhi-tou-gong-neng.md)
+* [对接ZeroBot-Plugin实现之功能](si-da-he-xin/dui-jie-zerobotplugin-shi-xian-zhi-gong-neng.md)
+* [基于Mirai实现的原生功能](si-da-he-xin/ji-yu-mirai-shi-xian-de-yuan-sheng-gong-neng.md)
 
 ## 子功能拆分
 
@@ -21,7 +22,7 @@
 * [Pixiv图片](zi-gong-neng-chai-fen/pixiv-tu-pian.md)
 * [反井字棋](zi-gong-neng-chai-fen/fan-jing-zi-qi.md)
 * [NASA图片获取](zi-gong-neng-chai-fen/nasa-tu-pian-huo-qu.md)
-* [战舰世界水表查询](zi-gong-neng-chai-fen/zhan-jian-shi-jie-shui-biao-cha-xun.md)
+* [Page 1](zi-gong-neng-chai-fen/page-1.md)
 
 ## Extra
 
