@@ -52,13 +52,9 @@ description: 最后修订于2022/2/17 08:20
 如果所有指令均无响应，则请尽快联系我。
 {% endhint %}
 
-### Mirai所实现的功能：
+### 一些子功能拆分：
 
 本文档的核心部分。
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
 
 {% content-ref url="zi-gong-neng-chai-fen/zeng-qiang-de-ta-luo-pai.md" %}
 [zeng-qiang-de-ta-luo-pai.md](zi-gong-neng-chai-fen/zeng-qiang-de-ta-luo-pai.md)
@@ -98,6 +94,14 @@ description: 最后修订于2022/2/17 08:20
 
 {% content-ref url="zi-gong-neng-chai-fen/yuan-shen-xian-xin-cha-jian.md" %}
 [yuan-shen-xian-xin-cha-jian.md](zi-gong-neng-chai-fen/yuan-shen-xian-xin-cha-jian.md)
+{% endcontent-ref %}
+
+{% content-ref url="zi-gong-neng-chai-fen/yuan-shen-ye-nai-cha-jian.md" %}
+[yuan-shen-ye-nai-cha-jian.md](zi-gong-neng-chai-fen/yuan-shen-ye-nai-cha-jian.md)
+{% endcontent-ref %}
+
+{% content-ref url="zi-gong-neng-chai-fen/yuan-shen-ye-nai-cha-jian.md" %}
+[yuan-shen-ye-nai-cha-jian.md](zi-gong-neng-chai-fen/yuan-shen-ye-nai-cha-jian.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}

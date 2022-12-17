@@ -22,6 +22,7 @@
 * [原神图鉴](zi-gong-neng-chai-fen/yuan-shen-tu-jian.md)
 * [原神·闲心插件](zi-gong-neng-chai-fen/yuan-shen-xian-xin-cha-jian.md)
 * [AI绘图](zi-gong-neng-chai-fen/ai-hui-tu.md)
+* [原神·椰奶插件](zi-gong-neng-chai-fen/yuan-shen-ye-nai-cha-jian.md)
 
 ## Extra
 

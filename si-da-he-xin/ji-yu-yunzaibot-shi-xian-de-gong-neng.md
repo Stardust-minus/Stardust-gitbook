@@ -23,3 +23,7 @@ description: 原神Bot（滑稽
 {% content-ref url="../zi-gong-neng-chai-fen/yuan-shen-tu-jian.md" %}
 [yuan-shen-tu-jian.md](../zi-gong-neng-chai-fen/yuan-shen-tu-jian.md)
 {% endcontent-ref %}
+
+{% content-ref url="../zi-gong-neng-chai-fen/yuan-shen-ye-nai-cha-jian.md" %}
+[yuan-shen-ye-nai-cha-jian.md](../zi-gong-neng-chai-fen/yuan-shen-ye-nai-cha-jian.md)
+{% endcontent-ref %}
