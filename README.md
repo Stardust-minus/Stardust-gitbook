@@ -100,10 +100,6 @@ description: 最后修订于2022/2/17 08:20
 [yuan-shen-ye-nai-cha-jian.md](zi-gong-neng-chai-fen/yuan-shen-ye-nai-cha-jian.md)
 {% endcontent-ref %}
 
-{% content-ref url="zi-gong-neng-chai-fen/yuan-shen-ye-nai-cha-jian.md" %}
-[yuan-shen-ye-nai-cha-jian.md](zi-gong-neng-chai-fen/yuan-shen-ye-nai-cha-jian.md)
-{% endcontent-ref %}
-
 {% hint style="info" %}
 **Good to know:** 关于维护者的联系方式可以在左面目录的最下面找到哦。
 {% endhint %}
