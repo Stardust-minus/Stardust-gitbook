@@ -23,6 +23,8 @@
 * [原神·闲心插件](zi-gong-neng-chai-fen/yuan-shen-xian-xin-cha-jian.md)
 * [AI绘图](zi-gong-neng-chai-fen/ai-hui-tu.md)
 * [原神·椰奶插件](zi-gong-neng-chai-fen/yuan-shen-ye-nai-cha-jian.md)
+* [基于VITS的AI语音](zi-gong-neng-chai-fen/ji-yu-vits-de-ai-yu-yin.md)
+* [原神·逍遥插件](zi-gong-neng-chai-fen/yuan-shen-xiao-yao-cha-jian.md)
 
 ## Extra
 
