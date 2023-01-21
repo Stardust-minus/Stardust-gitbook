@@ -25,6 +25,7 @@
 * [原神·椰奶插件](zi-gong-neng-chai-fen/yuan-shen-ye-nai-cha-jian.md)
 * [基于VITS的AI语音](zi-gong-neng-chai-fen/ji-yu-vits-de-ai-yu-yin.md)
 * [原神·逍遥插件](zi-gong-neng-chai-fen/yuan-shen-xiao-yao-cha-jian.md)
+* [Pixiv图片](zi-gong-neng-chai-fen/pixiv-tu-pian.md)
 
 ## Extra
 
